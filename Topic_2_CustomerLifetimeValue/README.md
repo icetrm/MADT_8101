@@ -20,6 +20,6 @@
 
 ![ScoringPoint](/Topic_2_CustomerLifetimeValue/assets/images/ScoringPoint.png)
 
-Total score = `No. of booking x Cancellation rate xTotal Spending`
+Total score = `No. of booking x Cancellation rate x Total Spending`
 
 ![ScoringPoint2](/Topic_2_CustomerLifetimeValue/assets/images/ScoringPoint2.png)
