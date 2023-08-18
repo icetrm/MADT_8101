@@ -1,10 +1,10 @@
 # Customer Lifetime Value
 
-## Agoda loyalty program
+### Agoda loyalty program
 
 ![This is an image](/Topic_2_CustomerLifetimeValue/assets/images/s1.png)
 
-[สิทธิประโยชน์ของ AgodaVIP](https://www.agoda.com/th-th/account/vip.html)
+### [สิทธิประโยชน์ของ AgodaVIP](https://www.agoda.com/th-th/account/vip.html)
 เมื่อจองที่พักกับอโกด้าในช่วง 2 ปี ครบ
 * 2 ครั้ง รับสถานะ Silver 
 * 5 ครั้ง รับสถานะ Gold 
