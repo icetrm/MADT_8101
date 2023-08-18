@@ -15,4 +15,5 @@ Agoda loyalty program
 * No. of booking (with in 24 months)
 * Cancellation rate
 * Total Spending (with in 24 months)
+
 ![This is an image](/Topic_2_CustomerLifetimeValue/assets/images/ScoringPoint.png)
