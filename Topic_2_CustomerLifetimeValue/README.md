@@ -2,6 +2,8 @@
 
 ### Agoda loyalty program
 
+ทางทีมได้มีการค้นคว้าหา Loyalty program ของธุรกิจต่างๆ จนได้มีการตัดสินใจหยิบข้อมูลของ Agoda มานำเสนอ
+
 ![This is an image](/Topic_2_CustomerLifetimeValue/assets/images/s1.png)
 
 ### Tier ของ Agoda

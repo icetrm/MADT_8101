@@ -1,6 +1,6 @@
 # Customer Data Platform
 
-Group 5 - Cafe Amazon
+### Group 5 - Cafe Amazon
  ทางทีมเห็นว่า เมื่อนึกถึง Cafe Amazon จะนึกถึงปั้มน้ำมันเลยมีการนำเสนอกาแฟ โดยเมื่อลูกค้าเข้ามาใช้บริการที่ปั้มน้ำมันแล้ว จะมีการนำเสนอสินค้าไปที่ใบเสร็จ
 
 คิดว่าเมื่อนำไปเปรียบเทียบกับการนำเสนอในวิธีต่างๆ
@@ -12,7 +12,7 @@ Group 5 - Cafe Amazon
 
 # Customer Single View
 
-Group 1 - Supermarket 
+### Group 1 - Supermarket 
  ทางทีมได้นำข้อมูลที่ได้มาจัดกลุ่มของลูกค้าได้แก่ Young Adults, Older Adults, Young Familles, Older Families, Pensioners, Other เพื่อที่จะดู Avg. Spending จากที่ได้รับคำแนะนำว่าให้เลือกกลุ่มที่น่าสนใจมาแค่บางกลุ่มก็เพียงพอ
 
 ![This is an image](/Topic_1_CustomerSingleView/CustomerSingleView/assets/images/s1.png)
