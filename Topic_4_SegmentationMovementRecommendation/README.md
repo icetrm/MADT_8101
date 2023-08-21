@@ -25,14 +25,11 @@
 ### Customer Segmentation Movement
 1H22 - 2H22
 
-![SM1](/Topic_4_SegmentationMovementRecommendation/assets/images/SM1.png)
 ![SM1](/Topic_4_SegmentationMovementRecommendation/assets/images/SM1_1.png)
+
 
 2H22 - 1H23
 
-![SM2](/Topic_4_SegmentationMovementRecommendation/assets/images/SM2.png)
 ![SM2](/Topic_4_SegmentationMovementRecommendation/assets/images/SM2_1.png)
-s
-
 
 ### Product Recommendation
