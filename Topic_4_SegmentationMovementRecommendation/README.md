@@ -16,19 +16,19 @@
 * สัดส่วนจำนวนครั้งที่ซื้อผ่านช่องทาง Offline(Offline ratio)
 * สัดส่วนจำนวนครั้งที่ซื้อผ่านช่องทาง Online(Online ratio)
 
-นำข้อมูลที่เลือกไปจัดกลุ่ม 4 กลุ่ม โดยใช้ K-Means ได้แต่
-* กลุ่ม 0 : Sporadic Seekers
-* กลุ่ม 1 : Discount Devotees
-* กลุ่ม 2 : Discretionary buyers
-* กลุ่ม 3 : Affluent Buyers
+นำข้อมูลที่เลือกไปจัดกลุ่ม 4 กลุ่ม โดยใช้ K-Means ได้แก่
+* กลุ่ม 0 Sporadic Seekers: ช้อปปิ้งออนไลน์เป็นระยะๆ
+* กลุ่ม 1 Discount Devotees: ชอบส่วนลด เกิดการซื้อบ่อย การใช้จ่ายสูง
+* กลุ่ม 2 Discretionary buyers: ซื้อเมื่อเห็นข้อเสนอที่ดีเท่านั้น มีการใช้จ่ายเฉลี่ยต่ำ
+* กลุ่ม 3 Affluent Buyers: กลับมาซื้อบ่อยและช็อปปิ้งที่ร้านค้าออฟไลน์
 
 ### Customer Segmentation Movement
-1H22 - 2H22
+แสดงข้อมูลการเปลี่ยนแปลงของกลุ่มลูกค้าครึ่งปีแรก ไป ครึ่งปีหลังของปี 2022
 
 ![SM1](/Topic_4_SegmentationMovementRecommendation/assets/images/SM1_1.png)
 
 
-2H22 - 1H23
+แสดงข้อมูลการเปลี่ยนแปลงของกลุ่มลูกค้าครึ่งปีหลังของปี 2022 ไป ครึ่งปีแรก 2023
 
 ![SM2](/Topic_4_SegmentationMovementRecommendation/assets/images/SM2_1.png)
 
