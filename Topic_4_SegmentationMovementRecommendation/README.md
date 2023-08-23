@@ -4,8 +4,6 @@
 
 ![PAGE1](/Topic_4_SegmentationMovementRecommendation/assets/images/PAGE1.png)
 
-จากข้อมูลที่ได้รับมาทางทีมได้มีการค้นคว้าหา Loyalty program ของธุรกิจต่างๆ จนได้มีการตัดสินใจหยิบข้อมูลของ Agoda มานำเสนอ
-
 ### Customer Segmentation
 
 ข้อมูลที่จะนำมาใช้ในการจัดกลุ่มลูกค้าได้แก่
