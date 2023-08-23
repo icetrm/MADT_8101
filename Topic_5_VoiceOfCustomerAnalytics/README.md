@@ -15,15 +15,15 @@
 
 ตัวอย่างข้อความใน กลุ่มที่ 1
 
-![TOPIC1_1](/Topic_5_VoiceOfCustomerAnalytics/assets/images/TOPIC1_1.png)
+![TOPIC1_1](/Topic_5_VoiceOfCustomerAnalytics/assets/images/TOPIC_1.png)
 
 ตัวอย่างข้อความใน กลุ่มที่ 2
 
-![TOPIC2_1](/Topic_5_VoiceOfCustomerAnalytics/assets/images/TOPIC2_1.png)
+![TOPIC2_1](/Topic_5_VoiceOfCustomerAnalytics/assets/images/TOPIC_2.png)
 
 ตัวอย่างข้อความใน กลุ่มที่ 3
 
-![TOPIC3_1](/Topic_5_VoiceOfCustomerAnalytics/assets/images/TOPIC3_1.png)
+![TOPIC3_1](/Topic_5_VoiceOfCustomerAnalytics/assets/images/TOPIC_3.png)
 
 
 นำโมเดลที่ได้ไปใช้กับรีวิว จะได้กลุ่มและคะแนนดังนี้
