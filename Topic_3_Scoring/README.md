@@ -1,5 +1,6 @@
 # Customer Scoring/Churn Scoring/Campaign Response Scoring
 
+## MODEL
 ทำการทดสอบกับโมเดล ดังนี้
 * Logistic regression
 * Random Forest Classifier
