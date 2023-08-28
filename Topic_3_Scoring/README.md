@@ -1,6 +1,30 @@
 # Customer Scoring/Churn Scoring/Campaign Response Scoring
 
-## MODEL
+จากข้อมูลที่ได้รับมาประกอบไปด้วยข้อมูล
+
+![CSV](/Topic_3_Scoring/assets/images/CSV.png)
+
+ตรวจพบว่ามีข้อมูลที่เป็น Null จึงทำการตัดออก
+
+![CSV_NULL](/Topic_3_Scoring/assets/images/CSV_NULL.png)
+
+
+![AGG_CSV](/Topic_3_Scoring/assets/images/AGG_CSV.png)
+
+จากค่า SD ที่ได้ จึงตัดสินใจเลือกข้อมูลสำหรับเข้าโมเดล ได้แก่
+- Tenure
+- CityTier
+- WarehouseToHome	
+- HourSpendOnApp	
+- NumberOfDeviceRegistered	
+- SatisfactionScore	
+- NumberOfAddress	
+- Complain	
+- OrderAmountHikeFromlastYear	
+- CouponUsed	
+- OrderCount	
+- DaySinceLastOrder
+
 ทำการทดสอบกับโมเดล ดังนี้
 * Logistic regression
 * Random Forest Classifier
