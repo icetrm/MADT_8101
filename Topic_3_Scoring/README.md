@@ -11,7 +11,7 @@
 
 ![AGG_CSV](/Topic_3_Scoring/assets/images/AGG_CSV.png)
 
-จากค่า SD ที่ได้ จึงตัดสินใจเลือกข้อมูลสำหรับเข้าโมเดล ได้แก่
+จากค่า SD ที่ได้เพื่อที่จะหา Churn จึงตัดสินใจเลือกข้อมูลสำหรับเข้าโมเดล ได้แก่
 - Tenure
 - CityTier
 - WarehouseToHome	
