@@ -31,3 +31,6 @@
 ![SM2](/Topic_4_SegmentationMovementRecommendation/assets/images/SM2_1.png)
 
 ### Product Recommendation
+เอาข้อมูลที่ได้หาความสัมพันธ์ โดยใช้ Collaborative filtering เพื่อมาช่วยในการตัดสินใจว่าผู้ใช้คนนี้ควรจะแนะนำสินค้าชิ้นไหน
+
+![C_01](/Topic_4_SegmentationMovementRecommendation/assets/images/C_01.png)
